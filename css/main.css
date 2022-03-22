@@ -245,44 +245,50 @@ audio.audio {
   background-position: 0 0;
 }
 .avatar-r1c2 {
-  background-position: -200px 0;
+  background-position: -250px 0;
 }
 .avatar-r1c3 {
-  background-position: -400px 0;
+  background-position: -500px 0;
 }
 .avatar-r1c4 {
-  background-position: -600px 0;
+  background-position: -750px 0;
 }
 .avatar-r1c5 {
-  background-position: -800px 0;
-}
-.avatar-r1c6 {
   background-position: -1000px 0;
 }
+.avatar-r1c6 {
+  background-position: -1250px 0;
+}
 .avatar-r1c7 {
-  background-position: -1200px 0;
+  background-position: -1500px 0;
 }
 
 .avatar-r2c1 {
-  background-position: 0 -200px;
+  background-position: 0 -250px;
 }
 .avatar-r2c2 {
-  background-position: -200px -200px;
+  background-position: -250px -250px;
 }
 .avatar-r2c3 {
-  background-position: -400px -200px;
+  background-position: -500px -250px;
 }
 .avatar-r2c4 {
-  background-position: -600px -200px;
+  background-position: -750px -250px;
 }
 .avatar-r2c5 {
-  background-position: -800px -200px;
+  background-position: -1000px -250px;
 }
 .avatar-r2c6 {
-  background-position: -1000px -200px;
+  background-position: -1250px -250px;
 }
 .avatar-r2c7 {
-  background-position: -1200px -200px;
+  background-position: -1500px -250px;
+}
+
+img.sponsors {
+  width: 115px;
+  height: auto;
+  padding: 10px;
 }
 
 /* ==========================================================================
